@@ -4,7 +4,7 @@ To add a unique touch, I customized the project by implementing a JavaScript fea
 This customization was a great opportunity for me to deepen my understanding of how to use event listeners, DOM manipulation, and dynamic styling in a real-world context.
 
 ## Demo
-[Live Demo] (https://naos35.github.io/PortfolioWebsite/).
+[Live Demo](https://naos35.github.io/PortfolioWebsite/).
 
 ## Technologies Used
 - HTML5
